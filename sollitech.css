@@ -63,7 +63,7 @@ color: yellowgreen;
 }
 
 @media (max-width: 640px){
-    .bigbanner h1, p {
+    .bigbanner h1{
         text-align: center;
         color: yellowgreen;
     }
@@ -89,7 +89,7 @@ color: yellowgreen;
 }
 @media(max-width:640px){
     .bigbanner p { 
-        color: red;
+        color: white;
         font-size: 20px;
         padding-top: 50px;
         text-align: center;
